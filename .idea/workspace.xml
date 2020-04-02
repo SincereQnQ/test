@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a0dd5906-252e-44ce-86ab-caa9ea430287" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IDEA_WorkPlace/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IDEA_WorkPlace/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,8 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+            <state relative-caret-position="312">
+              <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -35,12 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/demo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="e#64#65#0" expanded="true" />
-                <element signature="e#114#115#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="57">
+              <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -76,8 +74,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/demo1.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/demo1.java" />
       </list>
     </option>
   </component>
@@ -171,7 +169,7 @@
       <workItem from="1585707726677" duration="10137000" />
       <workItem from="1585735424134" duration="5000" />
       <workItem from="1585784871405" duration="10000" />
-      <workItem from="1585784926148" duration="2947000" />
+      <workItem from="1585784926148" duration="4752000" />
     </task>
     <task id="LOCAL-00001" summary="添加test工程">
       <created>1585733510784</created>
@@ -194,11 +192,18 @@
       <option name="project" value="LOCAL" />
       <updated>1585787047215</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="添加test工程到test">
+      <created>1585788804500</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585788804500</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13099000" />
+    <option name="totallyTimeSpent" value="14904000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -211,6 +216,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="240" y="79" width="1401" height="985" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26099926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -250,7 +256,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加test工程" />
     <MESSAGE value="添加test工程到rep" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加test工程到rep" />
+    <MESSAGE value="添加test工程到test" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加test工程到test" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -258,19 +265,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        <state relative-caret-position="312">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/demo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#64#65#0" expanded="true" />
-            <element signature="e#114#115#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="57">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
         </state>
       </provider>
     </entry>
