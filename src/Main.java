@@ -27,24 +27,24 @@ public class Main {
     提示导航：alt + enter
     */
 
-    public static void main1(String[] args) {
+    public static void main(String[] args) {
         if (true) {
             System.out.println("Hello World!!!");
             System.out.println("Hello!Tony!");
         }
     }
 
-    public static void main2(String[] args) {
-        if (true) {
-            System.out.println("Hello World!!!");
-        }
-    }
+//    public static void main(String[] args) {
+//        if (true) {
+//            System.out.println("Hello World!!!");
+//        }
+//    }
 
-    public static void main3(String[] args) {
-        if (true) {
-            System.out.println("Hello World!!!");
-            System.out.println();
-            date = new Date();
-        }
-    }
+//    public static void main3(String[] args) {
+//        if (true) {
+//            System.out.println("Hello World!!!");
+//            System.out.println();
+//            date = new Date();
+//        }
+//    }
 }
